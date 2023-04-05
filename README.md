@@ -1,44 +1,41 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Case Study
+> Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return..
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Introduction to Data understanding](#general-information)
+* [Data cleaning ](#technologies-used)
+* [Data Analysis](#conclusions)
+* [Recommendations](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Introduction to Data understanding
+- When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+- If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+- If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Data cleaning
+- Data cleaning is the process of removing incorrect, corrupted,incorrectly formatted, duplicate or incomplete data and also remove blank and Null values 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+## Data Analysis
+- Univariate Analysis
+- Bivariate Analysis
+- Multivariate Analysis
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
+## Recommendations
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- LOAN
+- CHARGED-OFF¶
+- GRADE
+- INTEREST
 
 
 ## Contact
